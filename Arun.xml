@@ -1,3 +1,4 @@
+<arun>
 after getting fileref
 asfduihsfdas
 <?xml version="1.0" encoding="UTF-8"?>
@@ -5,6 +6,7 @@ asfduihsfdas
 <!DOCTYPE manual PUBLIC "-//JMP//DTD Simplicity"
  "simple.dtd">
 <?Pub Inc?>
+Delete the code before this line
 <manual id="Marine Main Engine">
 <chapter id="Spare Parts Catalog">
 <title>Spare Parts Catalog</title>
